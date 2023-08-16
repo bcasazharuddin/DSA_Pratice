@@ -52,10 +52,8 @@ class Solution {
         return max;
     }
 }
- 
 
 // 2nd method
-
 int marksum(int arr[],int n,int k){
     int curr =0 ;
     for(int i=0;i<k;i++){
