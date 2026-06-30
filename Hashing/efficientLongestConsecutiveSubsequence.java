@@ -1,3 +1,4 @@
+import java.util.*;
 public class efficientLongestConsecutiveSubsequence {
     // Function to return length of longest subsequence of consecutive integers.
     public int longestConsecutive(int[] arr) {
